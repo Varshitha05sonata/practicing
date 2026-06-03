@@ -1,0 +1,4 @@
+2026-06-03 10:37:57,846 - ERROR - employees.json file not found
+2026-06-03 10:37:57,848 - INFO - Added employee: vavva
+2026-06-03 10:37:59,094 - INFO - Viewed employee data
+2026-06-03 10:38:03,098 - INFO - Application closed
